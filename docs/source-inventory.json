@@ -1,0 +1,100 @@
+{
+  "scope": "Original local study tools; no firmware or generated OEM code included",
+  "files": [
+    {
+      "path": "vm/qemu/src/build_native.py",
+      "local_source_sha256": "b86c6055e525f8bf01a3820e73060af6e05c9aafa353bae745ee5e596296a4fb",
+      "packaged_sha256": "b5304549f75845c6d7c720e0b6dd4cbfc1b565884522ea5ba74a6cc20e3d7670"
+    },
+    {
+      "path": "vm/qemu/src/build_graphics.py",
+      "local_source_sha256": "25a736591760c85da2c896f85462a3161db41f71a8a60c1e9f3110f3a1c99673",
+      "packaged_sha256": "a32ac92256b80f00df20095702793bf734eb2c44c7729124a9534a31b43dfacb"
+    },
+    {
+      "path": "vm/qemu/src/build_binder.py",
+      "local_source_sha256": "dfa7d31321529a82a9f93c5955d82b7035192bfb5df1d46cdf77a348079f8a32",
+      "packaged_sha256": "ba70270f4e1d7f4545d60c9c85f22e5c88f4399c2182484a446d3ad468f87bb4"
+    },
+    {
+      "path": "vm/qemu/src/DexTool.java",
+      "local_source_sha256": "aa5d353a0c278ed49654a07d69489cf13bd0331d15d91d778f31d9c5dfbbcaa1",
+      "packaged_sha256": "aa5d353a0c278ed49654a07d69489cf13bd0331d15d91d778f31d9c5dfbbcaa1"
+    },
+    {
+      "path": "vm/qemu/src/ScreenStream.java",
+      "local_source_sha256": "ff104decd817daef04ff597b15149782953acacc68fd2fad55e2681e3cc838a9",
+      "packaged_sha256": "ff104decd817daef04ff597b15149782953acacc68fd2fad55e2681e3cc838a9"
+    },
+    {
+      "path": "vm/qemu/scripts/build.py",
+      "local_source_sha256": "e479e45122b4ab2d8545bb38a2be9a78294583ec91de3d5cb77a7e5b620b6007",
+      "packaged_sha256": "4ec59680da6ec0c446d44e5427fe72a0dfba1647d8f3f3028abd01640fa280e4"
+    },
+    {
+      "path": "vm/qemu/scripts/build_screen.py",
+      "local_source_sha256": "e6f5615f55e348443e8f4931895ee1c4e5a0811cc3b324103dd69031b50f423e",
+      "packaged_sha256": "a4a964253aa15d4f11c1fe155cf41b6ea672d1b8ef0272f7d20e56c7fadde5e8"
+    },
+    {
+      "path": "vm/qemu/scripts/status.py",
+      "local_source_sha256": "262947c7c5fbfb1303fabc290adfcb967060e1bed34565784f2c981af1f4f576",
+      "packaged_sha256": "262947c7c5fbfb1303fabc290adfcb967060e1bed34565784f2c981af1f4f576"
+    },
+    {
+      "path": "vm/qemu/scripts/capture.py",
+      "local_source_sha256": "fba331203b0f04f7c34ca9aff2d96880bbcae48616a02bdd52fbaf695ced2d23",
+      "packaged_sha256": "676087e3be39033f99426632f2e7d9b9d675c391f1ab310684edad75d725ab46"
+    },
+    {
+      "path": "vm/qemu/scripts/viewer.py",
+      "local_source_sha256": "808ac1e7b8458bafaa6787f218fb2bcf702199776c45b4a7a907d74cb7e9d279",
+      "packaged_sha256": "a1cfd52fc25cd61e2470d5ca103b168dafd094eaeeec24f9cddc68bf8c499dbc"
+    },
+    {
+      "path": "vm/qemu/scripts/probe_stream.py",
+      "local_source_sha256": "4cfff4e9fb0c81b31ef2d3a45ef927d7688350b916d0a747a4aeb086c1f17083",
+      "packaged_sha256": "5e4a7c96dadc3053032e87bd7c06675ab8cdf37f8926b81fe496c23684dfd0ed"
+    },
+    {
+      "path": "vm/qemu/scripts/inspect_hidl.py",
+      "local_source_sha256": "9482c4a79fddf5b816f207f20aa50fe70338e7b58ba046ac62e9df5f8174a634",
+      "packaged_sha256": "67a1f6bff4d651ce3a6adc12b705f032dcd521c9c9070e55419786c0fc76447d"
+    },
+    {
+      "path": "vm/qemu/scripts/test_systemui_stability.py",
+      "local_source_sha256": "f6df184b9d136d30a53c3698005440bcca026f33695d2c9ca17effa4520cca36",
+      "packaged_sha256": "fcaa78ae1dda4700e84656ffeaccba3812cb007e3d0cb890d7ced61e9fecac01"
+    },
+    {
+      "path": "vm/qemu/scripts/start-screen-budget.sh",
+      "local_source_sha256": "605aa1189ce6f4df8e131d34b258448df32c7e0492761955d80e60091e7bad6a",
+      "packaged_sha256": "605aa1189ce6f4df8e131d34b258448df32c7e0492761955d80e60091e7bad6a"
+    },
+    {
+      "path": "vm/qemu/scripts/prioritize-systemui.sh",
+      "local_source_sha256": "741be0b1b7da68341777265777db42b6f2a9e203f4a8795c87162fdb3b6033e9",
+      "packaged_sha256": "741be0b1b7da68341777265777db42b6f2a9e203f4a8795c87162fdb3b6033e9"
+    },
+    {
+      "path": "vm/qemu/requirements.txt",
+      "local_source_sha256": "7e8bed238d133f316f01bc54fd47f62ab7dff46b8996c36cd633c6004de930b8",
+      "packaged_sha256": "7e8bed238d133f316f01bc54fd47f62ab7dff46b8996c36cd633c6004de930b8"
+    },
+    {
+      "path": "vm/qemu/vm_adb_sync.py",
+      "local_source_sha256": "502b2159f6a6aa04da4669633d25f6a34d88bbf67bb3a366e8e2bd0e5d420444",
+      "packaged_sha256": "be9888ffcd5dcd6453957328c4bd428a7cf94b546fc8d41a3124bc89ddb189b8"
+    },
+    {
+      "path": "apps/home-multilanguage/res/values-en/strings.xml",
+      "local_source_sha256": "4bc5454f0a9228106215af15b4bd3a721d7d84cb1b8f292d0192d843474c1eda",
+      "packaged_sha256": "4bc5454f0a9228106215af15b4bd3a721d7d84cb1b8f292d0192d843474c1eda"
+    },
+    {
+      "path": "apps/home-multilanguage/assets/app_config_US.json",
+      "local_source_sha256": "31aeb090976ea4aea32745f0c87fc36ded237b05bf1aedb1a93acd89557cb38a",
+      "packaged_sha256": "31aeb090976ea4aea32745f0c87fc36ded237b05bf1aedb1a93acd89557cb38a"
+    }
+  ]
+}

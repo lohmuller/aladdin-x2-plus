@@ -1,0 +1,319 @@
+{
+  "preInstalledApps": [
+    {
+      "pkgName": "cc.popin.aladdin.landskip",
+      "title": "Scenic Views",
+      "desc": "Bring beautiful scenery into your home, matched to the season and time of day.\nWindow Mode makes it feel like you're looking outside.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.realchat",
+      "title": "Poppy Chat",
+      "icon": "icon/icon_poppy_chat.png",
+      "desc": "Through happy moments and sleepless nights, Poppy is always there to talk with you.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.appstore",
+      "title": "Aladdin Store",
+      "icon": "icon/icon_grid_appstore.png",
+      "desc": "Download and enjoy a variety of content handpicked by Aladdin.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.sleephelper",
+      "title": "Aladdin Timer",
+      "icon": "icon/icon_grid_sleephelper.png",
+      "desc": "Build healthier habits that fit your daily routine and make time for the things that enrich your life.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.movingclock",
+      "title": "Wall Clock",
+      "desc": "From digital clocks with animated numbers to oversized wall clocks,\nwhich clock will you display in your room today?",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.gallery",
+      "title": "Home Art Gallery",
+      "desc": "Discover a different world-famous painting every day,\ndisplayed at actual size with audio commentary.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "jp.co.tver.tvapp",
+      "title": "TVer",
+      "desc": "Catch up on TV shows you missed for free.\nExplore dramas, variety shows, and more.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.karaoke",
+      "title": "Home Karaoke",
+      "desc": "Sing along with friends and family across generations, from old favorites to today's hits!\nBy Utatchao.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "jp.happyon.android",
+      "title": "Hulu",
+      "icon": "icon/icon_grid_hulu.png",
+      "desc": "Watch over 100,000 dramas, movies, variety shows, anime, and more.\nCatch up on missed episodes and watch popular international series.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.dixim",
+      "desc": "Connect a DLNA-compatible recorder or TV tuner\nto watch over-the-air TV and recorded shows on your projector.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "tv.abema",
+      "title": "ABEMA",
+      "icon": "icon/icon_grid_abema.png",
+      "desc": "Watch free TV channels featuring news, anime, music, sports, and more.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "com.amazon.amazonvideo.livingroom",
+      "title": "Amazon Prime Video",
+      "desc": "Enjoy a wide selection of Japanese and international dramas, movies, and anime,\nincluding exclusive titles.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "com.netflix.mediaclient",
+      "title": "Netflix",
+      "icon": "icon/icon_grid_netflix.png",
+      "desc": "Find movies and series you'll love, including award-winning Netflix originals,\nfilms, and documentaries.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "com.spotify.tv.android",
+      "title": "Spotify",
+      "icon": "icon/icon_grid_spotify.png",
+      "desc": "Listen to your favorites and discover new music on one of the world's largest music streaming services.",
+      "modeIndex": 0
+    },
+    {
+      "desc": "Listen to popular radio shows broadcasting in your area.\nDiscover what makes radio special.",
+      "pkgName": "cc.popin.aladdin.radiko",
+      "title": "radiko",
+      "icon": "icon/icon_grid_radiko.png",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "jp.unext.aladdin.player",
+      "icon": "icon/icon_grid_unext.png",
+      "title": "U-NEXT",
+      "desc": "Explore one of Japan's largest selections of movies, dramas, and anime,\nfrom timeless classics to the latest releases.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.staturemeasure",
+      "title": "Height Tracker",
+      "desc": "See how much you've grown since yesterday without marking the wall.\nStand in front of the projector and keep track as you grow!",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.moon",
+      "title": "Moon Light",
+      "desc": "Follow the changing phases of the moon.\nWhat shape is the moon in tonight's sky?",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.deep",
+      "title": "Deep Sleep",
+      "desc": "Relax and get better sleep with a growing collection of guided meditation,\nwhite noise, and sleep sounds.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.bkmamsr",
+      "title": "Pokémon ASMR",
+      "desc": "Enjoy official Pokémon ASMR videos featuring Charmander and Squirtle,\nplus Pokémon Kids TV!",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.light",
+      "title": "Relaxing Lights",
+      "desc": "Pair wall lights or candlelight with soothing music to create a relaxing space.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.news",
+      "title": "Aladdin Today",
+      "icon": "icon/icon_grid_news.png",
+      "desc": "Discover something new, from breaking news to the latest technology.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.guide",
+      "title": "Aladdin Discovery",
+      "desc": "Find Aladdin guides and announcements, plus ideas for getting more out of your projector.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "com.maxhub.screenshare.server.tv",
+      "title": "Aladdin Connector",
+      "icon": "icon/icon_grid_connector1.png",
+      "desc": "For the original Aladdin Connector, released in 2021.\nIf you use Aladdin Connector 2, use its dedicated app.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.connector",
+      "title": "Aladdin Connector 2",
+      "icon": "icon/icon_grid_connector2.png",
+      "desc": "For the Aladdin Connector 2, released in 2023.\nWirelessly display the screen of an HDMI-compatible device through your projector.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.settings",
+      "title": "System Settings",
+      "icon": "icon/icon_grid_setting.png",
+      "desc": "Connect to Wi-Fi, check for system updates, and manage other Aladdin settings.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "org.mozilla.tv.firefox",
+      "title": "Firefox",
+      "desc": "A full-featured, customizable web browser with support for extensions.\nBrowse and search the web more easily.",
+      "icon": "icon/icon_grid_firefox.png",
+      "modeIndex": 0
+    },
+    {
+      "icon": "icon/icon_grid_illustration.png",
+      "pkgName": "cc.popin.aladdin.illustration",
+      "title": "Learning Posters",
+      "desc": "Look, read aloud, and learn!\nProject Japanese hiragana, the English alphabet, and more on your wall.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.why",
+      "title": "Why Is That?",
+      "desc": "Explore children's everyday questions together and have fun finding the answers.\n",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.worldlib",
+      "title": "Picture Books from Around the World",
+      "desc": "Enjoy popular picture books from around the world on the big screen.\nMake bedtime reading more fun.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.animal",
+      "icon": "icon/icon_grid_animal.png",
+      "title": "Life-Size Animal Encyclopedia",
+      "desc": "Turn your bedroom into a zoo. See life-size animals from land, sea, and sky,\nand hear the sounds they make.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.map",
+      "icon": "icon/icon_grid_map.png",
+      "title": "Map of Japan",
+      "desc": "Join Jamumu on a trip around Japan and discover places to visit.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.on.childmode",
+      "title": "Kids Mode",
+      "icon": "icon/icon_popin_menu.png",
+      "desc": "Kids Mode brings together educational content you can enjoy with your child.\nTalk, learn, and play with Poppy!",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.game.watermelon",
+      "title": "Suika Game",
+      "desc": "Kids Mode brings together educational content you can enjoy with your child.\nTalk, learn, and play with Poppy!",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.photogallery",
+      "title": "Photo Memories",
+      "desc": "Fill your wall with favorite photos and memorable moments.\nUpload your photos through the companion app.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.aquarium",
+      "title": "Nature Aquarium",
+      "desc": "Explore a beautiful underwater world that recreates a small ecosystem,\nwhere aquatic plants and fish live together.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.paintclock",
+      "title": "Custom Clock",
+      "icon": "icon/icon_grid_paintclock.png",
+      "desc": "Turn your drawing into a clock and display it on your wall.\nDecorate the clock with your favorite artwork.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.keepfit",
+      "icon": "icon/icon_grid_keepfit.png",
+      "title": "Home Yoga",
+      "desc": "Get moving with yoga videos for beginner, intermediate, and advanced levels.\nBy SOELU.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.fitness",
+      "title": "Home Fitness",
+      "desc": "Enjoy a variety of classes, including workouts, dance, yoga, and Pilates.\nBy SOELU.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "com.nttdocomo.android.danimestb",
+      "title": "d Anime Store",
+      "desc": "Find the anime you want to watch, from current TV releases to old favorites.\nStream anime song concerts and musicals, too!",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "jp.co.nttdocomo.dtv.androidtv",
+      "title": "dTV",
+      "desc": "Watch unlimited movies, dramas, anime, Korean entertainment, and more.\nPopular titles are added every month.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "com.dazn",
+      "title": "DAZN",
+      "icon": "icon/icon_grid_dazn.png",
+      "desc": "Stream more than 10,000 sporting events a year with a subscription,\nincluding J.League, European soccer, pro baseball, tennis, and boxing.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "com.amazon.avod.thirdpartyclient",
+      "icon": "icon/icon_grid_amazon_prime.png",
+      "title": "Amazon Prime Video",
+      "desc": "Enjoy a wide selection of Japanese and international dramas, movies, and anime,\nincluding exclusive titles.",
+      "modeIndex": 0
+    },
+    {
+      "pkgName": "cc.popin.aladdin.off.childmode",
+      "title": "Poppy Menu",
+      "icon": "icon/icon_popin_menu.png",
+      "desc": "",
+      "modeIndex": 0
+    }
+  ],
+  "defaultApps": [
+    "cc.popin.aladdin.guide",
+    "cc.popin.aladdin.landskip",
+    "cc.popin.aladdin.photogallery",
+    "cc.popin.aladdin.light",
+    "cc.popin.aladdin.movingclock",
+    "tv.abema",
+    "cc.popin.aladdin.settings"
+  ],
+  "childDefaultApps": [
+    "cc.popin.aladdin.illustration",
+    "cc.popin.aladdin.map",
+    "cc.popin.aladdin.off.childmode",
+    "cc.popin.aladdin.animal",
+    "cc.popin.aladdin.worldlib",
+    "cc.popin.aladdin.why",
+    "cc.popin.aladdin.sketchaquarium",
+    "cc.popin.aladdin.solar"
+  ],
+  "childWhiteListApps": [
+    "cc.popin.aladdin.illustration",
+    "cc.popin.aladdin.map",
+    "cc.popin.aladdin.animal",
+    "cc.popin.aladdin.worldlib",
+    "cc.popin.aladdin.why",
+    "cc.popin.aladdin.off.childmode",
+    "cc.popin.aladdin.sketchaquarium",
+    "cc.popin.aladdin.solar"
+  ]
+}

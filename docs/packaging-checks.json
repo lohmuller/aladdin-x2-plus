@@ -1,0 +1,20 @@
+{
+  "scope": "Source publication checks; no VM or projector accessed",
+  "layout": "README.md, docs/, vm/qemu/, vm/home/, apps/, patchs/",
+  "links_anchors_json_and_python_syntax": "passed",
+  "source_inventory_hashes": "passed",
+  "translations": "104 XML resources; catalogue JSON parsed",
+  "host_build": {
+    "scope": "host-only build",
+    "native_adapters_verified": 4,
+    "egl_paths_verified": 2,
+    "binder_interfaces": 17,
+    "binder_methods": 174,
+    "binder_sha256": "3439b135fb94644ce840abea7a8865eb784c0954477687031e31e81cea5d4192",
+    "device_modified": false
+  },
+  "frame_server_build": "passed (javac source-8 bootstrap-classpath warning)",
+  "non_emulator_serial_guards": "passed without network access",
+  "personal_names_and_credentials_scan": "passed",
+  "qemu_cold_boot_verified": false
+}

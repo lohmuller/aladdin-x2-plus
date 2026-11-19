@@ -1,0 +1,10 @@
+build/
+__pycache__/
+*.apk
+*.dex
+*.class
+*.keystore
+*.jks
+*.pk8
+*.pem
+.env*

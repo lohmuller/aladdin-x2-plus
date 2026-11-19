@@ -1,0 +1,5 @@
+downloads/*.zip
+*.key
+*.pk8
+*.pem
+.env*

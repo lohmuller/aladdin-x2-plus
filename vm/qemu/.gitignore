@@ -1,0 +1,52 @@
+# External inputs, third-party tooling and generated material
+/inputs/
+/tools/
+build/
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Firmware, applications, libraries, extracted code and disk images
+*.apk
+*.apks
+*.xapk
+*.dex
+*.odex
+*.vdex
+*.smali
+*.so
+*.dll
+*.exe
+*.jar
+*.class
+*.img
+*.qcow2
+*.vmdk
+*.vdi
+*.zip
+*.gz
+*.tar
+*.7z
+*.avd/
+
+# Keys, credentials, private logs and captures
+.env
+.env.*
+*.pem
+*.pk8
+*.key
+*.jks
+*.keystore
+*.log
+*.png
+*.jpg
+*.request.json
+/viewer-state.txt
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
